@@ -10,7 +10,7 @@ import java.math.BigDecimal;
  * @Since:2017年5月11日
  * @Version:1.0
  */
-public class ObjectConvert {
+public class ObjectConvertUtil {
     /**
      * Object转换为Long，为null返null
      * 
